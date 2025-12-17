@@ -1,3 +1,4 @@
+
 # Specification-Driven Development (SDD)
 
 ## The Power Inversion
